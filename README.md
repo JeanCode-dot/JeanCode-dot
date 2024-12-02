@@ -10,7 +10,7 @@ jeantuber8@gmail.com
 - 😄 Pronouns: ...
 --
 - ⚡ Fun fact: ...
-I like to learn and I'm creative
+I like to learn and I'm creativo
 <!---
 JeanCode-dot/JeanCode-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
